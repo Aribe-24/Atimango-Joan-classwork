@@ -1,6 +1,6 @@
 About Me Page 
 
-An early HTML practice project — a simple personal profile page introducing myself, my hobbies, my music taste, and a contact form.
+An early HTML practice project, a simple personal profile page introducing myself, my hobbies, my music taste, and a contact form.
 
 Includes
 About me section
